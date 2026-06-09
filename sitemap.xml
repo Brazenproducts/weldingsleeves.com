@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://weldingsleeves.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://weldingsleeves.com/best-best-welding-sleeves-2026.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://weldingsleeves.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://weldingsleeves.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://weldingsleeves.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://weldingsleeves.com/how-to-choose-weldingsleeves-may-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://weldingsleeves.com/best-weldingsleeves-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://weldingsleeves.com/weldingsleeves-guide-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://weldingsleeves.com/weldingsleeves-buying-guide-2026.html</loc><lastmod>2026-05-20</lastmod></url>
-  <url><loc>https://weldingsleeves.com/weldingsleeves-worth-the-upgrade-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://weldingsleeves.com/weldingsleeves-market-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://weldingsleeves.com/smart-weldingsleeves-shopping-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://weldingsleeves.com/how-to-pick-weldingsleeves-2026.html</loc><lastmod>2026-06-01</lastmod></url>
-  <url><loc>https://weldingsleeves.com/weldingsleeves-reviewed-2026.html</loc><lastmod>2026-06-04</lastmod></url>
-  <url><loc>https://weldingsleeves.com/what-we-look-for-weldingsleeves-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://weldingsleeves.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
